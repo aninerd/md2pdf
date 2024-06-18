@@ -15,8 +15,7 @@ https://md2pdf.netlify.com/
 
 ## Tips
 - \`Resize\` the layout what you want.
-- After click \`Transform\` button, inverse the checkbox of **'Headers and Footers'**. 
-- **反選頁首與頁尾**.
+- After click \`Transform\` button, inverse the checkbox of **'Headers and Footers'**.
 
 ## What's special?
 - You can use <span style="color:#0984e3">html</span> tag!
